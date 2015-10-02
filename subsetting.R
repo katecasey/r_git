@@ -1,5 +1,5 @@
 #Title: R Subsetting
-#Autor: Kate Casey
+#Author: Bob the Builder
 #Date: 2015-10-02
 #Version: 1.0.0
 
