@@ -1,9 +1,9 @@
 #Title: R Subsetting
-#Author: Bob the Builder
+#Author: Bob the Builder is a special panda
 #Date: 2015-10-02
 #Version: 1.0.0
 
-#Creating a bector
+#Creating a vector
 x <- c(5.4, 6.2, 7.1, 4.8, 7.5)
 x
 names(x) <- letters[1:5]
